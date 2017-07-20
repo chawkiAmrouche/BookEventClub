@@ -3,6 +3,7 @@
 
 Android implementation of Sign in Sign Up layout concept
 
+[Demo](https://appetize.io/app/fatxzkdpaxpqtzf2j4vxu5ak1r?device=nexus5&scale=75&orientation=portrait&osVersion=7.0)
 ### Preview
  
  ![alt text](https://github.com/chawkiAmrouche/BookEventClub/blob/master/Untitled-1.png)
